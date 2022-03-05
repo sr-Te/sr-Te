@@ -33,9 +33,9 @@ waka-stats: https://github.com/athul/waka-readme
 const srTe = {
   fullName: Jorge Fernández,
   nationality: Chilean,
-  Languajes: [Spanish, English],
+  Languajes: [ Spanish, English ],
   Platforms : [ MacOs, Ubuntu, Windows ],
-  hobbies: [Programing, Sports, Cooking, Play guitar, Sing],
+  hobbies: [ Programing, Sports, Cooking, Guitar, Sing ],
 };
 ```
 
