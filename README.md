@@ -27,7 +27,7 @@ waka-stats: https://github.com/athul/waka-readme
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="25" /> A little more About me </h3>
 
-<img align= "left" width= "100" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+<img align= "center" width= "100" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
 
 ```js
