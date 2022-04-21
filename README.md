@@ -32,7 +32,6 @@ const srTe = {
   fullName: Jorge Fernández,
   nationality: Chilean,
   Languajes: [ Spanish, English ],
-  Platforms : [ MacOs, Ubuntu, Windows ],
   hobbies: [ Programing, Sports, Cooking, Guitar, Sing ],
 };
 ```
